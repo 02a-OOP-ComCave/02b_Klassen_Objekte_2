@@ -40,7 +40,6 @@ public class Cat {
         this.age = age;
     }
 
-
     public Cat getInstanceVariable(){
        return this;
     }
